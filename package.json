@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz-well-architected",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A well architected collection of FizzBuzz.",
+  "homepage": "https://github.com/Karibash/fizz-buzz-well-architected#readme",
+  "bugs": {
+    "url": "https://github.com/Karibash/fizz-buzz-well-architected/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karibash/fizz-buzz-well-architected.git"
+  },
+  "license": "MIT",
+  "author": "Karibash",
+  "scripts": {
+    "start:oop": "ts-node src/object-oriented-programming.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.2"
+  }
+}
